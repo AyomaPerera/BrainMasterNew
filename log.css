@@ -1,0 +1,53 @@
+﻿body {
+    background-image: url(/png/WEB\ BACKGROUND-01-02-01.jpg);
+    background-repeat: no-repeat;
+    background-size: 1370px 662px;
+}
+
+
+div {
+    border-style: solid;
+    margin-top: 23.1%;
+    margin-left: 36.5%;
+    padding: 2%;
+    width: 56%;
+    height: 265px;
+    color: white;
+}
+
+
+form {
+    text-align: center;
+    font-size: 100%;
+}
+
+
+
+
+button {
+    background-color: cornflowerblue;
+    height: 40px;
+    width: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    color: black;
+}
+
+a {
+    color: white;
+}
+
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+}
+
+th, tr {
+    padding: 7px;
+    margin-left: 100px;
+}
+
+table {
+    margin-left: 25%;
+}
